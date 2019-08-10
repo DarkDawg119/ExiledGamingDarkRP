@@ -22,7 +22,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "";
+var l_serverName = "JOKER IS A FUCKING NIGGER";
 
 // Use a video for the background?
 // Otherwise it will use images
@@ -106,7 +106,7 @@ var l_bgDarkening = 50;
 
 // Play music during the loading screen?
 // 'true' or 'false'
-var l_music = false;
+var l_music = true;
 
 // Display current music name?
 // 'true' or 'false'
@@ -117,10 +117,9 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "lullaby.ogg", name: "Lullaby of Deserted Hell"},
-	{ogg: "falls_in_fall.ogg", name: "秋に舞う椛と滝飛沫"},
-	{youtube: "https://www.youtube.com/watch?v=3VTwbEWW2W8", name: "Tea for Two"},
-	{youtube: "https://www.youtube.com/watch?v=VaDN_19rPyw", name: "Voile, the Magic Library"},
+	{youtube: "https://www.youtube.com/watch?v=EYA0v_F_f6c", name: "LLL"},
+	{youtube: "https://www.youtube.com/watch?v=CZu9N8qMKjA&list=PLqpUgHw-zEWu3mDbI9Le_scJjCddiIw8G", name: "LLL"},
+	{youtube: "https://www.youtube.com/watch?v=3LatqkCVjs0&list=PLqpUgHw-zEWu3mDbI9Le_scJjCddiIw8G&index=6", name: "LLL"}
 ];
 
 // Random music order?
@@ -137,9 +136,9 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!",
-	"Join our Discord! https://discord.gg/vSbTXFS",
+	"FUCK JOKER",
+	"FUCK KHAN",
+	"DOGGO SAYS SUCK A DICK"
 ];
 
 // Random message order?
